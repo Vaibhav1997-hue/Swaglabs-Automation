@@ -41,9 +41,10 @@ Test Data- { "standard_user", "secret_sauce" }, { "problem_user", "secret_sauce"
 How to Run the Project Prerequisites Java 8+
 
 Maven installed
-
+TestNG Installed
 Chrome browser
 
+Test Report - file:///D:/java/SwaglabsAT/ExtentReport.html 
 ChromeDriver in system PATH
 
 Assignment Info Course: Software Testing / Automation
